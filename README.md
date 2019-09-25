@@ -10,6 +10,7 @@ So, many of you guys are wondering how to use Github so I will be giving you guy
 or just input the files that you want to upload. 
 
 *Uploading*
+
 -First you would want to click on the file you would like to upload it to.
 -From there, you would click onto the "Upload files" box and it should send you to a new page where it would prompt you to add files. 
 -You can either drag the documents or anything from your folder to the box and it would upload it for you. Just be patient with big ones for they can take a while. 
