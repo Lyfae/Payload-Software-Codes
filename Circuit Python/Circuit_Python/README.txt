@@ -1,0 +1,1 @@
+Just use this link: https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/README.rst
